@@ -1,16 +1,16 @@
-### Hi there 👋
+# Docat0209
 
-<!--
-**Docat0209/Docat0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## about
 
-Here are some ideas to get you started:
+If life is a lie
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I want to code every night
+
+view my [blog](https://docat0209.github.io)
+
+
+[![Docat0209's github stats](https://github-readme-stats.vercel.app/api?username=Docat0209&theme=blue-green&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Docat0209's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Docat0209&theme=blue-green&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Docat0209's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Docat0209&theme=blue-green&hide_border=true&layout=compact)](https:/
