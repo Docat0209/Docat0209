@@ -1,16 +1,35 @@
-# Docat0209
+# Hi I'm Docat0209
 
-## about
+## 🚩 About me
 
-If life is a lie
+My name is Docat.
 
-I want to code every night
+🏫 I'm a university student from Taiwan.
 
-view my [blog](https://docat0209.github.io)
+👩‍💻 I'm currently working on [WesleyStudio](https://github.com/Wesley-Studio).
 
+🧠 I'm currently learning how to ride a motorcycle.
 
-[![Docat0209's github stats](https://github-readme-stats.vercel.app/api?username=Docat0209&theme=blue-green&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+📫 You can reach me on this email `shane930209@gmail.com`
+
+## 🛠 Skill
+
+- C# Winform App
+- C# Web Api
+- MS SQL Server
+- Android App
+- HTML
+- Python
+- C++
 
 [![Docat0209's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Docat0209&theme=blue-green&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Docat0209's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Docat0209&theme=blue-green&hide_border=true&layout=compact)](https:/
+## 🏁 Experience
+
+- Taiwan's 51nd national skills competition Mobile Applications Development 3rd place
+
+## 🔗 Link
+
+[Blog](https://docat0209.github.io)
+
+[WseleyStudio](https://github.com/Wesley-Studio)
