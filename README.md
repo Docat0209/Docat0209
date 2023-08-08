@@ -8,7 +8,7 @@ My name is Docat.
 
 👩‍💻 I'm currently working on [WesleyStudio](https://github.com/Wesley-Studio).
 
-🧠 I'm currently learning how to ride a motorcycle.
+🧠 I'm currently learning ML & Stock.
 
 📫 You can reach me on this email `shane930209@gmail.com`
 
