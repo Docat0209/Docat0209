@@ -12,15 +12,27 @@ My name is Docat.
 
 📫 You can reach me on this email `shane930209@gmail.com`
 
-## 🛠 Skill
+## ⌨️ Programming Language
 
-- C# Winform App
-- C# Web Api
-- MS SQL Server
-- Android App
-- HTML
-- Python
 - C++
+- C#
+- Java
+- JavaScript
+- Python
+- Kotlin
+- HTML/CSS
+- PHP
+- SQL
+
+## 🛠 Dev Skill
+
+- Windows App
+- Android App
+- Web App
+- Web Api
+- Database Design
+- Icon Design
+- Machine Learning
 
 [![Docat0209's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Docat0209&theme=blue-green&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
