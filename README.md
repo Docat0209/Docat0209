@@ -17,19 +17,27 @@ My name is Docat.
 - C++
 - C#
 - Java
-- JavaScript
 - Python
+- Swift
+- Dart
 - Kotlin
 - HTML/CSS
 - PHP
+- JavaScript
 - SQL
 
 ## 🛠 Dev Skill
 
-- Windows App
+- Windows Form App
 - Android App
-- Web App
-- Web Api
+- IOS App
+- Flutter App
+- Web Crawler
+- ASP.Net
+- Pytorch
+- Django
+- Vue.js
+- Spring Boot
 - Database Design
 - Icon Design
 - Machine Learning
@@ -39,9 +47,8 @@ My name is Docat.
 ## 🏁 Experience
 
 - Taiwan's 51nd national skills competition Mobile Applications Development 3rd place
+- Lohasnet(樂活資訊股份有限公司) Mobile Applications Developer Oct 2023 ~ Dec 2023
 
 ## 🔗 Link
-
-[Blog](https://docat0209.github.io)
 
 [WseleyStudio](https://github.com/Wesley-Studio)
