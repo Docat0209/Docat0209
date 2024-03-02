@@ -43,6 +43,7 @@ My name is Docat.
 - Machine Learning
 
 [![Docat0209's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Docat0209&theme=blue-green&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Docat's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=docat0209&theme=dark)](https://github.com/Docat0209/leetcode)
 
 ## 🏁 Experience
 
