@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hi, I'm Docat — a full-stack developer with a system-first mindset, currently diving deep into AI-integrated tooling.
+Hi, I'm Docat — a full-stack developer currently diving deep into AI-integrated tooling.
 
 I didn’t grow up fluent in code. I stumbled into programming through a high school competition team, barely able to write a `for` loop. That accident turned into a long-term dive into system architecture, product design, and practical AI development.  
 I later placed 3rd in Mobile Applications Development at Taiwan's 51st National Skills Competition — a turning point in my engineering journey.
