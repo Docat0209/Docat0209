@@ -68,8 +68,6 @@ Right now, I’m most interested in designing LLM tools that are more context-aw
 I use Git routinely for version control and follow structured workflows with `main`, `dev`, and `feature-*` branches.  
 Postman is my go-to for API testing, and I use logging where needed to track backend events.
 
-I don’t rely on complex toolchains — I prioritize clarity, maintainability, and practical delivery over trends or abstraction for its own sake.
-
 ---
 
 ## 📫 Contact
