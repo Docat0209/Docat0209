@@ -1,5 +1,3 @@
-[English](README.md) | [繁體中文](README.zh-TW.md)
-
 # Hi, I'm Docat (Shane)
 
 **Full-Stack Developer | AI-Integrated Tooling**
