@@ -5,6 +5,7 @@
 I build end-to-end systems that connect AI capabilities with real-world applications — from voice-driven AI agents and face recognition kiosks to mobile apps and POS systems. I care about shipping working products, not just prototypes.
 
 - Information Management @ **National Yunlin University of Science and Technology (YunTech)**
+- Practicing AI-assisted development since 2023
 - Currently focused on **OpenAI Realtime API** agents, **RAG pipelines**, and edge deployment on Raspberry Pi
 
 ## Tech Stack
