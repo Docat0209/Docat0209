@@ -14,8 +14,6 @@ I build end-to-end systems that connect AI capabilities with real-world applicat
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
@@ -40,7 +38,6 @@ I build end-to-end systems that connect AI capabilities with real-world applicat
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 
 **Database**
@@ -79,7 +76,7 @@ I build end-to-end systems that connect AI capabilities with real-world applicat
 | [**case-pos-system**](https://github.com/Docat0209/case-pos-system) | POS & online ordering system for 清真恩德元餃子館 | Django, Bootstrap, ESC/POS thermal printing |
 | [**case-delivery-dispatch**](https://github.com/Docat0209/case-delivery-dispatch) | Drag-and-drop delivery route dispatch tool | C# .NET 6, WinForms, GDI+ printing |
 
-## Open Source
+## Personal Open-Source Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
