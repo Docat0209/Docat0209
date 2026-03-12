@@ -63,7 +63,7 @@ I build end-to-end systems that connect AI capabilities with real-world applicat
 |--------|------|--------------|-------------|
 | 2025.03 — Present | LLM Application Developer | YunTech (Research Assistant) | Building voice-driven AI agents for industry-academia collaboration projects — including an [AI English tutor kiosk](https://github.com/Docat0209/case-ai-tutor-kiosk) and an [HIV education assistant](https://github.com/Docat0209/case-hiv-edu-assistant) with OpenAI Realtime API, RAG, and edge deployment |
 | 2023.10 — 2023.12 | Mobile App Developer (Part-time) | 樂活資訊服務股份有限公司 | Maintained 3 production apps (2 Flutter, 1 native iOS/Android) for a running event platform. Upgraded SDKs to meet store listing requirements, fixed BLE packet transmission bugs, and refreshed UI layouts |
-| 2022 | Freelance Developer | — | Delivered a [POS & online ordering system](https://github.com/Docat0209/case-pos-system) (Django) and a [delivery route dispatch tool](https://github.com/Docat0209/case-delivery-dispatch) (C# .NET) as contracted projects |
+| 2022.07 — 2023.02 | Freelance Developer | Wesley Studio | Delivered a [POS & online ordering system](https://github.com/Docat0209/case-pos-system) (Django) and a [delivery route dispatch tool](https://github.com/Docat0209/case-delivery-dispatch) (C# .NET) as contracted projects |
 
 ## Case Studies
 
