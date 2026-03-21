@@ -1,4 +1,4 @@
-# Hi, I'm Docat (Shane)
+# Hi, I'm Shane HO
 
 **Full-Stack Developer | AI-Integrated Tooling**
 
